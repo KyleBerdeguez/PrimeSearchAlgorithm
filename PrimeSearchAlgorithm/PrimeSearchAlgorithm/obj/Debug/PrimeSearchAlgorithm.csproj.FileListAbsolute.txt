@@ -1,0 +1,7 @@
+C:\Users\Kyle\source\repos\PrimeSearchAlgorithm\PrimeSearchAlgorithm\bin\Debug\PrimeSearchAlgorithm.exe.config
+C:\Users\Kyle\source\repos\PrimeSearchAlgorithm\PrimeSearchAlgorithm\bin\Debug\PrimeSearchAlgorithm.exe
+C:\Users\Kyle\source\repos\PrimeSearchAlgorithm\PrimeSearchAlgorithm\bin\Debug\PrimeSearchAlgorithm.pdb
+C:\Users\Kyle\source\repos\PrimeSearchAlgorithm\PrimeSearchAlgorithm\obj\Debug\PrimeSearchAlgorithm.csprojAssemblyReference.cache
+C:\Users\Kyle\source\repos\PrimeSearchAlgorithm\PrimeSearchAlgorithm\obj\Debug\PrimeSearchAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\PrimeSearchAlgorithm\PrimeSearchAlgorithm\obj\Debug\PrimeSearchAlgorithm.exe
+C:\Users\Kyle\source\repos\PrimeSearchAlgorithm\PrimeSearchAlgorithm\obj\Debug\PrimeSearchAlgorithm.pdb
