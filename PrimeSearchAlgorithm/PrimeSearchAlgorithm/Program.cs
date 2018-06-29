@@ -13,8 +13,8 @@ namespace PrimeSearchAlgorithm
             List<int> primes = new List<int>();
             primes.Add(2);
             primes.Add(3);
-            int currentNumber = 4;
-            while (currentNumber < 100000)
+            int currentNumber = 5;
+            while (currentNumber < 250000)
             {
                 bool isPrime = true;
                 int innerWhileIndex = 0;
@@ -30,6 +30,7 @@ namespace PrimeSearchAlgorithm
                 {
                     primes.Add(currentNumber);
                 }
+                currentNumber++;
                 currentNumber++;
             }
             int lastWhile = 0;
